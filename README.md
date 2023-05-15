@@ -1,2 +1,8 @@
-# ScadaUsingInkscape
-nodejs
+# spring mvc study #1
+
+1. 타임리프
+2. 메시지
+3. 검증
+4. 로그인
+5. 예외처리
+6. 파일 업로드
